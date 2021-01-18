@@ -1,12 +1,14 @@
 # Minhas Ferramentas VsCode.
+![Version](https://img.shields.io/badge/Version-1.0.0-F21B3F) ![Languange](https://img.shields.io/badge/Language-MarkDown-blue) ![Projeto](https://img.shields.io/badge/Projeto-MinhasFerramentasVsCode-08BDBD)
+
 ![image](https://user-images.githubusercontent.com/71250901/104920020-ed2b0f80-5975-11eb-8bd2-10d874dbc0e9.png)
 
-# Primeiro o que é o Vscode?
+# Primeiro o que é o Visual Studio code?
 O **Visual Studio Code é um editor de código-fonte** desenvolvido pela Microsoft para Windows, Linux e macOS. Ele inclui suporte para depuração, controle Git incorporado, realce de sintaxe, complementação inteligente de código, snippets e refatoração de código. Ele também é **customizável**, fazendo com que os usuários possam mudar o tema do editor, teclas de atalho e preferências. Ele é um software livre e de código aberto, apesar do download oficial estar sob uma licença proprietária.
 
 ## Conteúdos
 
-  - [o que é o Vscode](#primeiro-o-que-é-o-vscode)
+  - [o que é o Vscode](#primeiro-o-que-é-o-visual-studio-code)
   - [Conteúdos](#conteúdos)
   - [Ferramentas que uso](#ferramentas-que-eu-utlizo-no-vscode)
   - [o que cada ferramenta faz](#o-que-cada-ferramenta-faz)
@@ -20,7 +22,7 @@ O **Visual Studio Code é um editor de código-fonte** desenvolvido pela Microso
  - [GitLens.](#gitlens)
  - [Live Server.](#live-server)
  - [Markdown all in one.](#markdown-all-in-one)
- - [Portuguese(brazil) languange pack.](#portuguesebrazil-languange-pack)
+ - [Portuguese(Brazil) languange pack.](#portuguesebrazil-languange-pack)
 
 
  
@@ -34,26 +36,26 @@ O **Visual Studio Code é um editor de código-fonte** desenvolvido pela Microso
 Execute snippet de código ou arquivo de código para várias linguagens: C, C ++, Java, JavaScript, PHP, Python, Perl, Perl 6, Ruby, Go, Lua, Groovy, PowerShell, BAT / CMD, BASH / SH, F # Script, F # ( .NET Core), C # Script, C # (.NET Core), VBScript, TypeScript, CoffeeScript, Scala, Swift, Julia, Crystal, OCaml Script, R, AppleScript, Elixir, Visual Basic .NET, Clojure, Haxe, Objective-C , Rust, Racket, Scheme, AutoHotkey, AutoIt, Kotlin, Dart, Free Pascal, Haskell, Nim, D, Lisp, Kit, V, SCSS, Sass, CUDA, Less, Fortran e comando personalizado.
 
 Características
-- Execute o arquivo de código do Editor de Texto ativo atual
-- Execute o arquivo de código através do menu de contexto do explorador de arquivos
-- Execute o trecho de código selecionado no Editor de Texto
-- Execute o código por Shebang
-- Execute o código por nome de arquivo glob
-- Executar comando personalizado
-- Pare a execução do código
-- Ver saída na janela de saída
-- Defina o idioma padrão para executar
-- Selecione o idioma para executar
-- Suporte REPL executando código no Terminal Integrado
+- **Execute** o arquivo de código do Editor de Texto ativo atual.
+- **Execute** o arquivo de código através do menu de contexto do explorador de arquivos.
+- **Execute** o trecho de código selecionado no Editor de Texto.
+- **Execute** o código por Shebang.
+- **Execute** o código por nome de arquivo glob.
+- **Executar** comando personalizado.
+- **Pare** a execução do código.
+- **Ver** saída na janela de saída.
+- **Defina** o idioma padrão para executar.
+- **Selecione** o idioma para executar.
+- **Suporte** REPL executando código no Terminal Integrado.
 
 **Usos**
-- Para executar o código:
+- **Para executar o código:**
     - usar atalho Ctrl+Alt+N
     - ou pressione F1e selecione / digite Run Code,
     - ou clique com o botão direito do mouse no Editor de Texto e clique Run Codeno menu de contexto do editor
     - ou clique Run Codeno botão no menu do título do editor
     - ou clique Run Codeno botão no menu de contexto do explorador de arquivos
-- Para interromper a execução do código:
+- **Para interromper a execução do código:**
     - usar atalho Ctrl+Alt+M
     - ou pressione F1e selecione / digiteStop Code Run
    - ou clique com o botão direito no canal de saída e clique Stop Code Runno menu de contexto
@@ -67,8 +69,8 @@ Características
 
 ![image](https://user-images.githubusercontent.com/71250901/104915721-d386c980-596f-11eb-9f40-7e53780240eb.png)
 
-Tema é algo que todo mundo gosta de alterar na IDE e colocar de acordo a sua cara. E um dos temas mais baixados para quem usa o Vs Code é o Dracula.
-Ele vem com várias cores e temas que você pode alterar de acordo com o seu gosto. Eu já usei muito o tema Dracula Dark (como da imagem abaixo). Mas, na próxima dica mencionarei um outro tema que tenho usado e curtido bastante! 😊
+**Tema** é algo que todo mundo gosta de alterar na IDE e colocar de acordo a sua cara. E um dos temas mais baixados para quem usa o VsCode é o **Dracula**.
+Ele vem com várias cores e temas que você pode alterar de acordo com o seu gosto. Eu muito o tema Dracula Dark (como da imagem abaixo)😊.
 
 ![image](https://user-images.githubusercontent.com/71250901/104916066-53149880-5970-11eb-95f1-87bb4c0b3e7f.png)
 
@@ -78,11 +80,11 @@ Ele vem com várias cores e temas que você pode alterar de acordo com o seu gos
 
 ![image](https://user-images.githubusercontent.com/71250901/104916470-e1891a00-5970-11eb-9878-e1073604becb.png)
 
-GitLens é uma extensão de código aberto para Visual Studio Code criado, desenvolvido e mantido por Eric Amodio .
+**GitLens** é uma extensão de código aberto para Visual Studio Code criado, desenvolvido e mantido por Eric Amodio.
 
-GitLens simplesmente ajuda você a entender melhor o código . Vislumbre rapidamente quem, por que e quando uma linha ou bloco de código foi alterado. Volte na história para obter mais insights sobre como e por que o código evoluiu. Explore sem esforço a história e a evolução de uma base de código.
+**GitLens** simplesmente ajuda você a entender melhor o código . Vislumbre rapidamente quem, por que e quando uma linha ou bloco de código foi alterado. Volte na história para obter mais insights sobre como e por que o código evoluiu. Explore sem esforço a história e a evolução de uma base de código.
 
-GitLens é poderoso , rico em recursos e altamente personalizável para atender às suas necessidades. Você acha que a lente do código é intrusiva ou a anotação de culpa da linha atual é perturbadora - sem problemas, desligue-as rapidamente ou mude como elas se comportam por meio do editor interativo de configurações GitLens . Para personalizações avançadas, consulte os documentos GitLens e edite suas configurações de usuário .
+**GitLens** é poderoso , rico em recursos e altamente personalizável para atender às suas necessidades. Você acha que a lente do código é intrusiva ou a anotação de culpa da linha atual é perturbadora - sem problemas, desligue-as rapidamente ou mude como elas se comportam por meio do editor interativo de configurações GitLens . Para personalizações avançadas, consulte os documentos GitLens e edite suas configurações de usuário .
 
 Aqui estão apenas alguns dos **recursos** que o GitLens oferece,
 
@@ -127,7 +129,7 @@ um Remotes visualizar para visualizar, explorar e gerenciar controles remotos Gi
    
 ![image](https://user-images.githubusercontent.com/71250901/104916539-fb2a6180-5970-11eb-89e4-6e846ff10f8f.png)
 
-Ajuda na visualização, pois conforme você digita no vscode atualiza automaticamente na página WEB.
+Ajuda na visualização, pois conforme você digita no VsCode, atualiza automaticamente na página WEB.
 
 
 <img src="https://github.com/ritwickdey/vscode-live-server/raw/master/images/Screenshot/vscode-live-server-animated-demo.gif">
@@ -196,4 +198,4 @@ Contribuições são sempre bem-vindas. Existem várias maneiras de contribuir c
 
 🚀 Compartilhando este projeto com seus amigos.
 
-[Voltar ao topo](#primeiro-o-que-é-o-vscode)
+[Voltar ao topo](#conteúdos)

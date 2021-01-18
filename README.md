@@ -58,7 +58,7 @@ Características
 
 <img src="https://github.com/formulahendry/vscode-code-runner/raw/master/images/usage.gif">
 
-1. **Dracula Official.**
+2. **Dracula Official.**
 
 ![image](https://user-images.githubusercontent.com/71250901/104915721-d386c980-596f-11eb-9f40-7e53780240eb.png)
 
@@ -114,7 +114,7 @@ um Remotes visualizar para visualizar, explorar e gerenciar controles remotos Gi
 
 <img src="https://raw.githubusercontent.com/eamodio/vscode-gitlens/main/images/docs/revision-navigation.gif">
 
-1. **live Server.**
+4. **live Server.**
    
 ![image](https://user-images.githubusercontent.com/71250901/104916539-fb2a6180-5970-11eb-89e4-6e846ff10f8f.png)
 

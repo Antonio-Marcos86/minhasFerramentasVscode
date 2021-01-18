@@ -13,18 +13,21 @@ O **Visual Studio Code é um editor de código-fonte** desenvolvido pela Microso
   - [Como contribuir](#como-contribuir)
 
  
-## ferramentas que eu utlizo no VsCode:
+## ferramentas que eu utilizo:
 
-1. Code Runner.
-2. Dracula official.
-3. GitLens.
-4. live Server.
-5. Markdown all in one.
-6. Portuguese(Brazil) Languange Pack.
+ - [Code Runner:](#code-runner)
+ - [Dracula Official.](#dracula-official)
+ - [GitLens.](#gitlens)
+ - [Live Server.](#live-server)
+ - [Markdown all in one.](#markdown-all-in-one)
+ - [Portuguese(brazil) languange pack.](#portuguesebrazil-languange-pack)
+
+
+ 
 
 ### O que cada ferramenta faz?
 
-1. **Code Runner:**
+#### Code Runner:
    
 ![image](https://user-images.githubusercontent.com/71250901/104915848-fd3ff080-596f-11eb-96b9-c49c8bf6e5a5.png)
 
@@ -58,7 +61,9 @@ Características
 
 <img src="https://github.com/formulahendry/vscode-code-runner/raw/master/images/usage.gif">
 
-2. **Dracula Official.**
+[Voltar às ferramentas](#ferramentas-que-eu-utilizo)
+
+#### Dracula Official.
 
 ![image](https://user-images.githubusercontent.com/71250901/104915721-d386c980-596f-11eb-9f40-7e53780240eb.png)
 
@@ -67,7 +72,9 @@ Ele vem com várias cores e temas que você pode alterar de acordo com o seu gos
 
 ![image](https://user-images.githubusercontent.com/71250901/104916066-53149880-5970-11eb-95f1-87bb4c0b3e7f.png)
 
-3. **GitLens.**
+[Voltar às ferramentas](#ferramentas-que-eu-utilizo)
+
+#### GitLens.
 
 ![image](https://user-images.githubusercontent.com/71250901/104916470-e1891a00-5970-11eb-9878-e1073604becb.png)
 
@@ -114,7 +121,9 @@ um Remotes visualizar para visualizar, explorar e gerenciar controles remotos Gi
 
 <img src="https://raw.githubusercontent.com/eamodio/vscode-gitlens/main/images/docs/revision-navigation.gif">
 
-4. **live Server.**
+[Voltar às ferramentas](#ferramentas-que-eu-utilizo)
+
+#### Live Server.
    
 ![image](https://user-images.githubusercontent.com/71250901/104916539-fb2a6180-5970-11eb-89e4-6e846ff10f8f.png)
 
@@ -148,7 +157,9 @@ Ajuda na visualização, pois conforme você digita no vscode atualiza automatic
 
 Todas as configurações agora estão listadas aqui Configurações Documentos .
 
-5. **Markdown all in one.**
+[Voltar às ferramentas](#ferramentas-que-eu-utilizo)
+
+#### Markdown all in one.
 
 ![image](https://user-images.githubusercontent.com/71250901/104916630-18f7c680-5971-11eb-81ee-654bbbe64605.png)
 
@@ -156,7 +167,9 @@ Todas as configurações agora estão listadas aqui Configurações Documentos .
 
  <img src="https://github.com/yzhang-gh/vscode-markdown/raw/master/images/gifs/section-numbers.gif">
 
-6. **Portuguese(brazil) languange pack.**
+[Voltar às ferramentas](#ferramentas-que-eu-utilizo)
+
+#### Portuguese(brazil) languange pack.
    
 ![image](https://user-images.githubusercontent.com/71250901/104916719-34fb6800-5971-11eb-9581-888d088ea4d6.png)
 
@@ -166,7 +179,7 @@ O pacote de idiomas em português (Brasil) fornece experiência de interface do 
 **Uso**
 Uma vez instalado, configurado "locale": "pt-br"em locale.jsoncarregar Português (Brasil) Language Pack. Para modificar, locale.jsonpressione Ctrl+Shift+Ppara abrir a Paleta de comandos , comece a digitar “config” para filtrar a lista de comandos disponíveis e selecione o comando Configurar idioma . Consulte o Docs para obter mais informações.
 
-[Voltar ao topo](#primeiro-o-que-é-o-vscode)
+[Voltar às ferramentas](#ferramentas-que-eu-utilizo)
 ## Como contribuir
 
 Contribuições são sempre bem-vindas. Existem várias maneiras de contribuir com este projeto, como:
@@ -182,4 +195,5 @@ Contribuições são sempre bem-vindas. Existem várias maneiras de contribuir c
 📄 Ajudando a melhorar a documentação.
 
 🚀 Compartilhando este projeto com seus amigos.
+
 [Voltar ao topo](#primeiro-o-que-é-o-vscode)

@@ -118,7 +118,7 @@ um Remotes visualizar para visualizar, explorar e gerenciar controles remotos Gi
    
 ![image](https://user-images.githubusercontent.com/71250901/104916539-fb2a6180-5970-11eb-89e4-6e846ff10f8f.png)
 
-Ajuda na visualização, pois conforme você digita no vscode atualiza automáticamente na página WEB.
+Ajuda na visualização, pois conforme você digita no vscode atualiza automaticamente na página WEB.
 
 
 <img src="https://github.com/ritwickdey/vscode-live-server/raw/master/images/Screenshot/vscode-live-server-animated-demo.gif">

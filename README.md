@@ -1,5 +1,5 @@
-# Minhas Ferramentas VsCode.
-![Version](https://img.shields.io/badge/Version-1.0.0-F21B3F) ![Languange](https://img.shields.io/badge/Language-MarkDown-blue) ![Projeto](https://img.shields.io/badge/Projeto-MinhasFerramentasVsCode-08BDBD)
+# Minhas Ferramentas no Visual Studio Code.
+![Version](https://img.shields.io/badge/Version-1.0.0-F21B3F) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-Markdown-blue)
 
 ![image](https://user-images.githubusercontent.com/71250901/104920020-ed2b0f80-5975-11eb-8bd2-10d874dbc0e9.png)
 
@@ -88,37 +88,37 @@ Ele vem com várias cores e temas que você pode alterar de acordo com o seu gos
 
 Aqui estão apenas alguns dos **recursos** que o GitLens oferece,
 
-- navegação de revisão sem esforço (para trás e para frente) através do histórico de um arquivo
+- Navegação de revisão sem esforço (para trás e para frente) através do histórico de um arquivo
 - uma anotação de culpa de linha atual discreta no final da linha mostrando o commit e o autor que modificou a linha pela última vez, com informações de culpa mais detalhadas acessíveis ao passar o mouse
-- lente do código de autoria mostrando o commit mais recente e o número de autores no topo dos arquivos e / ou em blocos de código
-- uma anotação de culpa na barra de status mostrando o commit e o autor que modificou a linha atual pela última vez
-- anotações de arquivo sob demanda na calha do editor, incluindo
-    - culpa - mostra o commit e o autor que modificou cada linha de um arquivo pela última vez
-    - alterações - destaca quaisquer alterações locais (não publicadas) ou linhas alteradas pelo commit mais recente
-    - mapa de calor - mostra como as linhas foram alteradas recentemente, em relação a todas as outras alterações no arquivo e até agora (quente x frio)
-- muitas vistas ricas da barra lateral
-    - uma visão de commits para visualizar, explorar e gerenciar commits Git
-    - uma visualização Repositórios para visualizar, explorar e gerenciar repositórios Git
-    - uma visão de histórico de arquivo para visualizar, navegar e explorar o histórico de revisão do arquivo atual ou apenas as linhas selecionadas do arquivo atual
-    - uma visualização de Histórico de linha para visualizar, navegar e explorar o histórico de revisão das linhas selecionadas do arquivo atual
-uma visualização de ramos para visualizar, explorar e gerenciar ramos Git
-um Remotes visualizar para visualizar, explorar e gerenciar controles remotos Git e filiais remotas
-    - uma visualização Stashes para visualizar, explorar e gerenciar stashes Git
-    - uma visualização de tags para visualizar, explorar e gerenciar tags Git
-    - uma visualização de colaboradores para visualizar, navegar e explorar colaboradores
-    - uma visualização de Pesquisa e Comparação para pesquisar e explorar históricos de commits por mensagem, autor, arquivos, id, etc, ou visualizar comparações entre branches, tags, commits e mais
-- uma Paleta de comandos Git para fornecer acesso guiado (passo a passo) a muitos comandos Git comuns, bem como acesso rápido a
-    - commits - histórico e pesquisa
-    - esconderijos
-    - status - branch atual e status da árvore de trabalho
-- um editor de rebase interativo amigável para configurar facilmente uma sessão de rebase interativa
-- links de terminal -ctrl+clickem autolinks no terminal integrado para ir rapidamente para mais detalhes para commits, branches, tags e muito mais
-- ricas integrações de provedor remoto - GitHub, GitLab, Bitbucket, Azure DevOps
-    - emitir e obter link automático de solicitação
-    - informações valiosas de foco fornecidas para problemas vinculados e solicitações pull (apenas GitHub)
-    - associa solicitações de pull a branches e commits (somente GitHub)
-- muitos comandos poderosos para navegar e comparar revisões e muito mais
-- modos definidos pelo usuário para alternar rapidamente entre conjuntos de configurações
+- Lente do código de autoria mostrando o commit mais recente e o número de autores no topo dos arquivos e / ou em blocos de código
+- Uma anotação de culpa na barra de status mostrando o commit e o autor que modificou a linha atual pela última vez
+- Anotações de arquivo sob demanda na calha do editor, incluindo
+    - Culpa - mostra o commit e o autor que modificou cada linha de um arquivo pela última vez
+    - Alterações - destaca quaisquer alterações locais (não publicadas) ou linhas alteradas pelo commit mais recente
+    - Mapa de calor - mostra como as linhas foram alteradas recentemente, em relação a todas as outras alterações no arquivo e até agora (quente x frio)
+- Muitas vistas ricas da barra lateral
+    - Uma visão de commits para visualizar, explorar e gerenciar commits Git
+    - Uma visualização Repositórios para visualizar, explorar e gerenciar repositórios Git
+    - Uma visão de histórico de arquivo para visualizar, navegar e explorar o histórico de revisão do arquivo atual ou apenas as linhas selecionadas do arquivo atual
+    - Uma visualização de Histórico de linha para visualizar, navegar e explorar o histórico de revisão das linhas selecionadas do arquivo atual
+    - Uma visualização de ramos para visualizar, explorar e gerenciar ramos Git
+    - Um Remotes visualizar para visualizar, explorar e gerenciar controles remotos Git e filiais remotas
+    - Uma visualização Stashes para visualizar, explorar e gerenciar stashes Git
+    - Uma visualização de tags para visualizar, explorar e gerenciar tags Git
+    - Uma visualização de colaboradores para visualizar, navegar e explorar colaboradores
+    - Uma visualização de Pesquisa e Comparação para pesquisar e explorar históricos de commits por mensagem, autor, arquivos, id, etc, ou visualizar comparações entre branches, tags, commits e mais
+- Uma Paleta de comandos Git para fornecer acesso guiado (passo a passo) a muitos comandos Git comuns, bem como acesso rápido a
+    - Commits - histórico e pesquisa.
+    - Esconderijos
+    - Status - branch atual e status da árvore de trabalho
+- Um editor de rebase interativo amigável para configurar facilmente uma sessão de rebase interativa
+- Links de terminal -ctrl+clickem autolinks no terminal integrado para ir rapidamente para mais detalhes para commits, branches, tags e muito mais
+- Ricas integrações de provedor remoto - GitHub, GitLab, Bitbucket, Azure DevOps
+    - Emitir e obter link automático de solicitação
+    - Informações valiosas de foco fornecidas para problemas vinculados e solicitações pull (apenas GitHub)
+    - Associa solicitações de pull a branches e commits (somente GitHub)
+- Muitos comandos poderosos para navegar e comparar revisões e muito mais
+- Modos definidos pelo usuário para alternar rapidamente entre conjuntos de configurações
 - e muito mais 😁
 
 <img src="https://raw.githubusercontent.com/eamodio/vscode-gitlens/main/images/docs/revision-navigation.gif">
@@ -152,12 +152,6 @@ Ajuda na visualização, pois conforme você digita no VsCode, atualiza automati
 - CORS ativado
 - Espaço de trabalho multi-root suportado.
 - Suporte para qualquer arquivo, até mesmo páginas dinâmicas, por meio do Live Server Web Extension .
-- Instalação
-- Abra o VSCode e digite ctrl+P, digite ext install ritwickdey.liveserver.
-
-**Configurações.**
-
-Todas as configurações agora estão listadas aqui Configurações Documentos .
 
 [Voltar às ferramentas](#ferramentas-que-eu-utilizo)
 
@@ -165,7 +159,7 @@ Todas as configurações agora estão listadas aqui Configurações Documentos .
 
 ![image](https://user-images.githubusercontent.com/71250901/104916630-18f7c680-5971-11eb-81ee-654bbbe64605.png)
 
- Markdown como uma linguagem de marcação leve tem sido usada extensivamente por escritores e desenvolvedores da web em sites muito populares por algum tempo, o mais popular é, possivelmente, o GitHub. Imagine se a Microsoft nos anos 90 criasse o Microsoft Word, mas para a Internet? Isso seria Markdown. Markdown é um formato de texto simples, convertido em HTML estruturalmente válido.
+Markdown como uma linguagem de marcação leve tem sido usada extensivamente por escritores e desenvolvedores da web em sites muito populares por algum tempo, o mais popular é, possivelmente, o GitHub. Imagine se a Microsoft nos anos 90 criasse o Microsoft Word, mas para a Internet? Isso seria Markdown. Markdown é um formato de texto simples, convertido em HTML estruturalmente válido.
 
  <img src="https://github.com/yzhang-gh/vscode-markdown/raw/master/images/gifs/section-numbers.gif">
 

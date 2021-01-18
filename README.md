@@ -8,10 +8,10 @@ O **Visual Studio Code é um editor de código-fonte** desenvolvido pela Microso
 
 ## Conteúdos
 
-  - [o que é o Vscode](#primeiro-o-que-é-o-visual-studio-code)
+  - [O que é o Visual Studio Code](#primeiro-o-que-é-o-visual-studio-code)
   - [Conteúdos](#conteúdos)
   - [Ferramentas que uso](#ferramentas-que-eu-utlizo-no-vscode)
-  - [o que cada ferramenta faz](#o-que-cada-ferramenta-faz)
+  - [O que cada ferramenta faz](#o-que-cada-ferramenta-faz)
   - [Como contribuir](#como-contribuir)
 
  

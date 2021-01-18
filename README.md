@@ -165,15 +165,15 @@ Markdown como uma linguagem de marcação leve tem sido usada extensivamente por
 
 [Voltar às ferramentas](#ferramentas-que-eu-utilizo)
 
-### Portuguese(brazil) languange pack.
+### Portuguese(Brazil) languange pack.
    
 ![image](https://user-images.githubusercontent.com/71250901/104916719-34fb6800-5971-11eb-9581-888d088ea4d6.png)
 
-**Pacote de idioma português (Brasil) para o código VS**
+**Pacote de idioma português (Brasil) para o código VS Code
 O pacote de idiomas em português (Brasil) fornece experiência de interface do usuário localizada para o VS Code.
 
 **Uso**
-Uma vez instalado, configurado "locale": "pt-br"em locale.jsoncarregar Português (Brasil) Language Pack. Para modificar, locale.jsonpressione Ctrl+Shift+Ppara abrir a Paleta de comandos , comece a digitar “config” para filtrar a lista de comandos disponíveis e selecione o comando Configurar idioma . Consulte o Docs para obter mais informações.
+Uma vez instalado, configurado "locale": "pt-br"em locale.jsoncarregar Português (Brasil) Language Pack. Para modificar, locale.jsonpressione Ctrl+Shift+Ppara abrir a **Paleta de comandos** , comece a digitar “config” para filtrar a lista de comandos disponíveis e selecione o comando **Configurar idioma** . Consulte o <a href="https://code.visualstudio.com/docs/getstarted/locales">Docs</a> para obter mais informações.
 
 [Voltar às ferramentas](#ferramentas-que-eu-utilizo)
 ## Como contribuir

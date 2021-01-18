@@ -1,4 +1,5 @@
-# Minhas Ferramentas VsCode
+# Minhas Ferramentas VsCode.
+![image](https://user-images.githubusercontent.com/71250901/104920020-ed2b0f80-5975-11eb-8bd2-10d874dbc0e9.png)
 
 # Primeiro o que é o Vscode?
 O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft para Windows, Linux e macOS. Ele inclui suporte para depuração, controle Git incorporado, realce de sintaxe, complementação inteligente de código, snippets e refatoração de código. Ele também é customizável, fazendo com que os usuários possam mudar o tema do editor, teclas de atalho e preferências. Ele é um software livre e de código aberto, apesar do download oficial estar sob uma licença proprietária.

@@ -10,7 +10,7 @@ O **Visual Studio Code é um editor de código-fonte** desenvolvido pela Microso
 
   - [O que é o Visual Studio Code](#primeiro-o-que-é-o-visual-studio-code)
   - [Conteúdos](#conteúdos)
-  - [Ferramentas que uso](#ferramentas-que-eu-utlizo-no-vscode)
+  - [Ferramentas que eu utilizo](#ferramentas-que-eu-utlizo-no-vscode)
   - [O que cada ferramenta faz](#o-que-cada-ferramenta-faz)
   - [Como contribuir](#como-contribuir)
 
@@ -27,9 +27,9 @@ O **Visual Studio Code é um editor de código-fonte** desenvolvido pela Microso
 
  
 
-### O que cada ferramenta faz?
+## O que cada ferramenta faz?
 
-#### Code Runner:
+### Code Runner:
    
 ![image](https://user-images.githubusercontent.com/71250901/104915848-fd3ff080-596f-11eb-96b9-c49c8bf6e5a5.png)
 
@@ -65,7 +65,7 @@ Características
 
 [Voltar às ferramentas](#ferramentas-que-eu-utilizo)
 
-#### Dracula Official.
+### Dracula Official.
 
 ![image](https://user-images.githubusercontent.com/71250901/104915721-d386c980-596f-11eb-9f40-7e53780240eb.png)
 
@@ -76,7 +76,7 @@ Ele vem com várias cores e temas que você pode alterar de acordo com o seu gos
 
 [Voltar às ferramentas](#ferramentas-que-eu-utilizo)
 
-#### GitLens.
+### GitLens.
 
 ![image](https://user-images.githubusercontent.com/71250901/104916470-e1891a00-5970-11eb-9878-e1073604becb.png)
 
@@ -125,7 +125,7 @@ Aqui estão apenas alguns dos **recursos** que o GitLens oferece,
 
 [Voltar às ferramentas](#ferramentas-que-eu-utilizo)
 
-#### Live Server.
+### Live Server.
    
 ![image](https://user-images.githubusercontent.com/71250901/104916539-fb2a6180-5970-11eb-89e4-6e846ff10f8f.png)
 
@@ -155,7 +155,7 @@ Ajuda na visualização, pois conforme você digita no VsCode, atualiza automati
 
 [Voltar às ferramentas](#ferramentas-que-eu-utilizo)
 
-#### Markdown all in one.
+### Markdown all in one.
 
 ![image](https://user-images.githubusercontent.com/71250901/104916630-18f7c680-5971-11eb-81ee-654bbbe64605.png)
 
@@ -165,7 +165,7 @@ Markdown como uma linguagem de marcação leve tem sido usada extensivamente por
 
 [Voltar às ferramentas](#ferramentas-que-eu-utilizo)
 
-#### Portuguese(brazil) languange pack.
+### Portuguese(brazil) languange pack.
    
 ![image](https://user-images.githubusercontent.com/71250901/104916719-34fb6800-5971-11eb-9581-888d088ea4d6.png)
 

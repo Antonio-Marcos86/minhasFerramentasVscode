@@ -166,6 +166,7 @@ O pacote de idiomas em português (Brasil) fornece experiência de interface do 
 **Uso**
 Uma vez instalado, configurado "locale": "pt-br"em locale.jsoncarregar Português (Brasil) Language Pack. Para modificar, locale.jsonpressione Ctrl+Shift+Ppara abrir a Paleta de comandos , comece a digitar “config” para filtrar a lista de comandos disponíveis e selecione o comando Configurar idioma . Consulte o Docs para obter mais informações.
 
+[Voltar ao topo](#primeiro-o-que-é-o-vscode)
 ## Como contribuir
 
 Contribuições são sempre bem-vindas. Existem várias maneiras de contribuir com este projeto, como:
@@ -181,3 +182,4 @@ Contribuições são sempre bem-vindas. Existem várias maneiras de contribuir c
 📄 Ajudando a melhorar a documentação.
 
 🚀 Compartilhando este projeto com seus amigos.
+[Voltar ao topo](#primeiro-o-que-é-o-vscode)
